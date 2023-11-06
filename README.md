@@ -1,3 +1,9 @@
+<https://mantine.dev/core/>  
+<https://react-icons.github.io/react-icons/icons?name=fi>  
+<https://elysiajs.com/>
+
+---
+
 # Mantine Next.js template
 
 This is a template for [Next.js](https://nextjs.org/) pages router + [Mantine](https://mantine.dev/).
